@@ -1,8 +1,10 @@
 2026/09/16 15:55:43
 
-<!-- notify 1/2 · Avg6FBYQ -->
-## Notification 1/2
-Round: Round 1
-To: bill@slusher1.com, robertclairdye@yahoo.com
-At: 2026-09-16 15:55:51
-Id: Avg6FBYQ
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: dmryan55@verizon.net, lsalandra14@yahoo.com
+At: 2026-09-16 15:56:30
+Id: rpdQvB98
